@@ -23,7 +23,14 @@ body {
   color: $darkGray;
 }
 
-.container {
+.contcontainer {
+  margin: 0 auto;
+  max-width: 740px;
+  padding: 0 10px;
+  width: 100%;
+}
+
+.footcontainer {
   margin: 0 auto;
   max-width: 740px;
   padding: 100px;
