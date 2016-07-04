@@ -306,11 +306,25 @@ nav {
   background-color: $lightGray;
 }
 
-footer {
-  padding: 20px 0;
-  text-align: center;
+#wrapper {
+	min-height:100%;
+	position:relative;
 }
 
+#content {
+	padding-bottom:100px; /* Height of the footer element */
+}
+
+footer {
+  	padding: 20px 0;
+	text-align: center;
+	background:#ffab62;
+	width:100%;
+	height:100px;
+	position:absolute;
+	bottom:0;
+	left:0;
+}
 
 /*** Table Styles **/
 
@@ -422,24 +436,6 @@ td.text-left {
 
 td.text-center {
   text-align: center;
-}
-
-#wrapper {
-	min-height:100%;
-	position:relative;
-}
-
-#content {
-	padding-bottom:100px; /* Height of the footer element */
-}
-
-#footer {
-	background:#ffab62;
-	width:100%;
-	height:100px;
-	position:absolute;
-	bottom:0;
-	left:0;
 }
 
 td.text-right {
