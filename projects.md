@@ -4,11 +4,8 @@ title: Projects
 parmalink: /projects/
 ---
 
-### [Language Identification](https://github.com/irshadbhat/litcm)
+### [Transition-based Parsing](https://bitbucket.org/riyazbhat/ilparser)
 
-### [Machine Transliteration](https://github.com/irshadbhat/indic-trans)
+### [Intra-chunk Expansion](https://bitbucket.org/riyazbhat/srexpander)
 
-### [Wx converter](https://github.com/irshadbhat/indic-wx-converter)
-
-### [Indic Tokenizer](https://github.com/irshadbhat/indic-tokenizer)
-
+### [Unsupervised Hidden Markov Model](https://bitbucket.org/riyazbhat/2-hmm)
